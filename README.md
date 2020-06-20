@@ -19,7 +19,7 @@ The ```raw_utmb``` folder contains the raw data that used to construct the featu
 
 The ```regression_utmb``` folder contains the data set used in the regressions in the paper (with 2 lags).
 
-If you just want to try the data without bothering about constructing the features, then you should definitely use the data set contained in the second folder. If you would like to see the code, please reach out to us. You can find our emails in the paper below.
+If you just want to try some modeling on the data without bothering about the construction of the features, then you should definitely use the data set contained in the second folder. If you would like to see the code, please reach out to us. You can find our emails in the paper mentioned below.
 
 # How to cite
 
