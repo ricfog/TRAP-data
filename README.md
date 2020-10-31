@@ -25,15 +25,18 @@ If you just want to try some modeling on the data without bothering about the co
 
 If you use the data set in a research paper/article, then you need to cite:
 
-*Fogliato, Riccardo, Natalia L. Oliveira, and Ronald Yurko. "TRAP: A Predictive Framework for Trail Running Assessment of Performance." arXiv preprint arXiv:2002.01328 (2020).* 
+*Fogliato, Riccardo, Natalia L. Oliveira, and Ronald Yurko. "TRAP: a predictive framework for the Assessment of Performance in Trail Running." Journal of Quantitative Analysis in Sports 1.ahead-of-print (2020).* 
 
 Bibtex citation:
 
 ```
 @article{fogliato2020trap,
-  title={TRAP: A Predictive Framework for Trail Running Assessment of Performance},
+  title={TRAP: a predictive framework for the Assessment of Performance in Trail Running},
   author={Fogliato, Riccardo and Oliveira, Natalia L and Yurko, Ronald},
-  journal={arXiv preprint arXiv:2002.01328},
-  year={2020}
+  journal={Journal of Quantitative Analysis in Sports},
+  volume={1},
+  number={ahead-of-print},
+  year={2020},
+  publisher={De Gruyter}
 }
 ```
